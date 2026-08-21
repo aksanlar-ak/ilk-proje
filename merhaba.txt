@@ -1,0 +1,2 @@
+Merhaba GitHub!
+Bu benim ilk Git projem.
