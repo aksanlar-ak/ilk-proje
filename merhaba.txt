@@ -1,2 +1,8 @@
 Merhaba GitHub!
 Bu benim ilk Git projem.
+
+Git öğreniyorum! 🚀
+
+💻 Bilgisayardaki dosya
+        ≠
+☁️ GitHub'daki son kayıt
